@@ -1,2 +1,2 @@
 Hi GIT,
-Đây là dự án "Học t"
+Đây là dự án "HOC G TU TE".
